@@ -2,34 +2,37 @@ body {
     background-image: url(bg.jpg);
 }
 
-.center{
+.center {
     display: block;
     width: 280px;
     margin: auto;
 }
 
-.container{
+.container {
     text-align: center;
     width: 50%;
     height: 50%;
     margin: auto;
 }
-.self{
+
+.self {
     text-align: center;
     border: 2px solid whitesmoke;
     width: 50%;
     height: 50%;
     margin: auto;
-    padding: 0;
+    padding: 0; /* Correct the padding property */
 }
-h1{
+
+h1 {
     color: aliceblue;
     text-align: center;
 }
-h3{
+
+h3 {
     color: aliceblue;
 }
 
-.mine{
+.mine {
     color: aliceblue;
 }
