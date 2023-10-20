@@ -6,7 +6,6 @@ body {
     display: block;
     width: 280px;
     margin: auto;
-    padding: 0%;
 }
 
 .container{
@@ -21,7 +20,7 @@ body {
     width: 50%;
     height: 50%;
     margin: auto;
-    padding:center;
+    padding: 0;
 }
 h1{
     color: aliceblue;
